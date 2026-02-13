@@ -1,6 +1,5 @@
 
 # ML_Assignment2
-=======
 Machine Learning Classification Models Comparison
 ## Problem Statement
 The objective of this project is to implement and compare multiple machine learning classification models on a medical dataset for predicting diabetes risk. The project also includes building and deploying an interactive Streamlit web application to evaluate model performance using test data.
