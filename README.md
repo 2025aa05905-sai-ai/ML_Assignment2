@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ML_Assignment2
 =======
 Machine Learning Classification Models Comparison
@@ -95,4 +95,3 @@ The deployed Streamlit application includes:
 
 4. Confusion matrix visualization
 
->>>>>>> 9799970 (ML Assignment 2)
